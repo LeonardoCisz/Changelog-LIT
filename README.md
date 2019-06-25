@@ -8,6 +8,8 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 ### Added
 
 ### Changed
+- Mudança no desenho da  
+
 
 ### Removed
 
