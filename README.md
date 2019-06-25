@@ -20,6 +20,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 ### Removed
 - Bordas pretas no contorno das páginas durante a leitura
 - Remoção da assinatura de usuário
+- Opção de separação de quadros para criadores
 
 ### Security
 - Melhorada a segurança em relação aos dados do usuário
