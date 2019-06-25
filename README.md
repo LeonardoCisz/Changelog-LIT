@@ -2,7 +2,7 @@
 # Changelog
 Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
-## [Unreleased]
+## [Released]
 
 ## [1.3.1] - 2019-06-28
 ### Fixed
