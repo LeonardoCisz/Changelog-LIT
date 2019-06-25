@@ -4,6 +4,13 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
 ## [Released]
 
+## [2.0.0] - 2019-07-01
+### Added
+
+### Changed
+
+### Removed
+
 ## [1.3.1] - 2019-06-28
 ### Fixed
 - Correção do bug que ao apertar para salvar o projeto o aplicativo fechava.
@@ -25,6 +32,9 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 ### Security
 - Melhorada a segurança em relação aos dados do usuário
 - Criptografia de informações importantes
+
+### Fixed
+- Correção do bug de não aparecer a mensagem "Compra efetuada"
 
 ## [1.2.0] - 2019-06-22
 ### Added
@@ -49,6 +59,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
 ### Fixed
 - Correção nas traduções
+- Correção onde a Chan-chan não aparecia.
 
 ## [1.0.1] - 2015-06-16
 ### Fixed
@@ -57,14 +68,18 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
 ## [1.0.0] - 2019-06-15
 ### Added
-- Adicionado novas opções para leitores e criadores, separando as configurações de cada um dentro da área especifica que o usuário irá fazer aquilo
-- Adicionado assinatura no aplicativo onde o usuário terá acesso
+- Adicionado novas opções para leitores e criadores, separando as configurações de cada um dentro da área especifica que o usuário irá fazer aquilo.
+- Adicionado assinatura no aplicativo onde o usuário terá acesso.
+- Nova garota fofinha propaganda da aplicação chamada "Chan-chan".
 
 ### Changed
 - Mudança no tratamento de usuários, Leitores para apenas leitores e Criadores para quem cria algum conteúdo.
 
 ### Removed
 - Opções de criação removidas do menu de configurações gerais.
+
+### Fixed
+- Correção das telas que apareciam com as cores antigas.
 
 ## [0.5.0] - 2019-06-12
 ### Changed
@@ -90,6 +105,9 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 - Novas funcionalidades de leitura.
 - Novo modo Leitura livre onde o usuário irá poder alternar entre esse e o modo Leitura por páginas.
 - Permite que o usuário dê zoom na página.
+
+### Fixed
+- Correção dos botões não aparecendo
 
 ## [0.2.0] - 2019-05-10
 ### Added
