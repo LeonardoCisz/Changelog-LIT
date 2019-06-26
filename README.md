@@ -4,7 +4,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
 ## [Released]
 
-## [2.0.0] - 2019-07-01
+## [2.0.0] - 2019-07-19
 ### Added
 - Adoção de uma nova linguagem de programação alterando quase todo o codigo do sistema.
 - Adicionada a opção "Traduzir para outro idioma" onde se o criador daquele conteudo permitir essa opção estará ativa para todos os usuarios. Nessa opção podera traduzir aquela obra e criar uma nova versão para outro idioma, essa versão sera revisada pelo autor antes de ser publicada.
@@ -24,7 +24,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 - Correção do bug que fazia aparecer a opção da assinatura semanal nos tablets.
 - Correção do problema de quando o usuario mudava para a proxima pagina ele era direcionado para a tela de criação.
 
-## [1.4.0] - 2019-06-25
+## [1.4.0] - 2019-07-01
 ### Added
 - Opção de compartilhar a leitura através das redes sociais.
 - Adicionado uma nova interação com a Chan-chan onde ela pode te ajudar em certas funções da aplicação.
