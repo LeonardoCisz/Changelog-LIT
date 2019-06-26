@@ -11,7 +11,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
 
 ### Changed
-- Mudança no físico da Chan-chan pois haviam muitas reclamações de que ela estava muito sexualizada
+- Mudança no físico da Cham-chan pois haviam muitas reclamações de que ela estava muito sexualizada
 - Mudança no tratamento do usuário, não chamando os criadores de criadores e os não criadores de leitores
 - Agora a opção idioma também poderá traduzir os mangas criados pelos usuarios caso o criador adicione a opção "Traduzir para outro idioma" ativa em sua obra.
 
@@ -19,8 +19,8 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - Correção de otimização.
 - Correção de bugs no modo criação onde só era possível voltar 5 vezes.
 - Correção de problema do aplicativo não abrir.
-- Correção da Chan-chan aparecer com as roupas antigas.
-- Correção da Chan-chan aparecer sem roupa.
+- Correção da Cham-chan aparecer com as roupas antigas.
+- Correção da Cham-chan aparecer sem roupa.
 - Correção do bug que fazia aparecer a opção da assinatura semanal nos tablets.
 - Correção do problema de quando o usuário mudava para a próxima página ele era direcionado para a tela de criação.
 
@@ -31,7 +31,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - Novos idiomas adicionados.
 
 ### Changed
-- Mudanças na roupa da Chan-chan.
+- Mudanças na roupa da Cham-chan.
 
 ### Removed
 - Assinatura semanal.
@@ -50,13 +50,12 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - Classificação e review de leituras já realizadas.
 
 ### Removed
-- Bordas pretas no contorno das páginas durante a leitura
-- Remoção da assinatura de usuário
-- Opção de separação de quadros para criadores
+- Bordas pretas no contorno das páginas durante a leitura.
+- Opção de separação de quadros para criadores.
 
 ### Security
-- Melhorada a segurança em relação aos dados do usuário
-- Criptografia de informações importantes
+- Melhorada a segurança em relação aos dados do usuário.
+- Criptografia de informações importantes.
 
 ### Fixed
 - Correção do bug de não aparecer a mensagem "Compra efetuada".
@@ -75,27 +74,31 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
 ## [1.1.0] - 2019-06-20
 ### Added
-- Adicionado modo noturno
-- Nova opção de Separação de quadros para os criadores
-- Disponibilizar para o usuário girar o dispositivo enquanto lê ou cria um manga
-
-
-## [1.0.2] - 2019-06-17
+- Adicionado modo noturno.
+- Nova opção de Separação de quadros para os criadores.
+- Disponibilizar para o usuário girar o dispositivo enquanto lê ou cria um manga.
 
 ### Fixed
-- Correção nas traduções
-- Correção onde a Chan-chan não aparecia.
+- Correção do bug que prendia o usuario em uma tela de atualização infinita caso estivesse em uma internet muito instavel.
+- Correção do problema que fazia todas as obras que começavam com "ProfessorEuTeAmo" ficavam em primeiro na lista dos mais lidos.
+
+## [1.0.2] - 2019-06-17
+### Fixed
+- Correção nas traduções.
+- Correção onde a Cham-chan não aparecia.
+- Correção do bug que fazia os usuarios não pagantes conseguirem ter acesso aos conteudos exclusivos.
 
 ## [1.0.1] - 2015-06-16
 ### Fixed
-- Bug onde o arquivo de leitura sumia após algum tempo.
+- Correção do bug onde o arquivo de leitura sumia após algum tempo.
+- Correção do bug que fazia o aplicativo mudar de cor.
 
 
 ## [1.0.0] - 2019-06-15
 ### Added
 - Adicionado novas opções para leitores e criadores, separando as configurações de cada um dentro da área especifica que o usuário irá fazer aquilo.
-- Adicionado assinatura no aplicativo onde o usuário terá acesso a conteúdos exclusivos, tendo a opção de assinatura semanal,mensal ou anual.
-- Nova garota fofinha propaganda da aplicação chamada "Chan-chan".
+- Adicionado assinatura no aplicativo onde o usuário terá acesso a conteúdos exclusivos, tendo a opção de assinatura semanal, mensal ou anual.
+- Nova garota fofinha propaganda da aplicação chamada "Cham-chan".
 
 ### Changed
 - Mudança no tratamento de usuários, Leitores para apenas leitores e Criadores para quem cria algum conteúdo.
@@ -116,18 +119,17 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - Novo menu de configurações gerais
 - O usuário vai ter a opção de editar a foto de perfil recordando-a e adicionando filtro antes de postá-la.
 - Opção de notificações adicionado.
-- Opção Idioma adicionado junto com as duas novas línguas disponíveis, inglês e espanhol (Isso não traduz os mangás criados aqui).
+- Opção Idioma adicionado junto com as duas novas línguas disponíveis, inglês e espanhol (Isso não traduz os mangás criados no aplicativo).
 - Novas opções de leitura e criação também disponibilizadas no menu de configurações gerais.
 
 ### Changed
-- Alteração na opção de suporte onde o usuário não será mais direcionado na opção de enviar email e agora vai enviar uma mensagem dentro do aplicativo para o suporte.
+- Alteração na opção de suporte onde o usuário não será mais direcionado para enviar um email e agora vai enviar uma mensagem dentro do aplicativo para o suporte.
 
 ### Removed
 - Marcar texto com ferramentas de visualização
 
 ## [0.3.0] - 2019-05-15
 ### Added
-- Novas funcionalidades de leitura.
 - Novo modo Leitura livre onde o usuário irá poder alternar entre esse e o modo Leitura por páginas.
 - Permite que o usuário dê zoom na página.
 
@@ -136,9 +138,8 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
 ## [0.2.0] - 2019-05-10
 ### Added
-- Novas funcionalidades de criação.
-- Adição das funcionalidades Sombreamento e Fundo.
-- Número de vezes que era possível desfazer algo já feito aumentou de 5 para 20- 
+- Adição das funcionalidades Sombreamento e Fundo para criação.
+- Número de vezes que era possível desfazer algo já feito aumentou de 5 para 20. 
 
 ## [0.1.0] - 2019-03-31
 ### Added
