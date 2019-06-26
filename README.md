@@ -1,28 +1,28 @@
 
 # Changelog
-Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
+Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
 ## [Released]
 
 ## [2.0.0] - 2019-07-19
 ### Added
-- Adoção de uma nova linguagem de programação alterando quase todo o codigo do sistema.
-- Adicionada a opção "Traduzir para outro idioma" onde se o criador daquele conteudo permitir essa opção estará ativa para todos os usuarios. Nessa opção podera traduzir aquela obra e criar uma nova versão para outro idioma, essa versão sera revisada pelo autor antes de ser publicada.
+- Adoção de uma nova linguagem de programação alterando quase todo o código do sistema.
+- Adicionada a opção "Traduzir para outro idioma" onde se o criador daquele conteúdo permitir essa opção estará ativa para todos os usuários. Nessa opção poderá traduzir aquela obra e criar uma nova versão para outro idioma, essa versão será revisada pelo autor antes de ser publicada.
 
 
 ### Changed
-- Mudança no fisico da Chan-chan pois haviam muitas reclamações de que ela estava muito sexualizada
-- Mudança no tratamento do usuario, não chamando os criadores de criadores e os não criadores de leitores
-- Agora a opção idioma tambem poderá traduzir os mangas criados pelos usuarios caso o criador adicione a opção "Traduzir para outra lingua" ativa em sua obra.
+- Mudança no físico da Chan-chan pois haviam muitas reclamações de que ela estava muito sexualizada
+- Mudança no tratamento do usuário, não chamando os criadores de criadores e os não criadores de leitores
+- Agora a opção idioma também poderá traduzir os mangas criados pelos usuarios caso o criador adicione a opção "Traduzir para outro idioma" ativa em sua obra.
 
 ### Fixed
 - Correção de otimização.
-- Correção de bugs no modo criação onde só era possivel voltar 5 vezes.
+- Correção de bugs no modo criação onde só era possível voltar 5 vezes.
 - Correção de problema do aplicativo não abrir.
 - Correção da Chan-chan aparecer com as roupas antigas.
 - Correção da Chan-chan aparecer sem roupa.
 - Correção do bug que fazia aparecer a opção da assinatura semanal nos tablets.
-- Correção do problema de quando o usuario mudava para a proxima pagina ele era direcionado para a tela de criação.
+- Correção do problema de quando o usuário mudava para a próxima página ele era direcionado para a tela de criação.
 
 ## [1.4.0] - 2019-07-01
 ### Added
@@ -94,7 +94,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 ## [1.0.0] - 2019-06-15
 ### Added
 - Adicionado novas opções para leitores e criadores, separando as configurações de cada um dentro da área especifica que o usuário irá fazer aquilo.
-- Adicionado assinatura no aplicativo onde o usuário terá acesso a conteudos exclusivos, tendo a opção de assinatura semanal,mensal ou anual.
+- Adicionado assinatura no aplicativo onde o usuário terá acesso a conteúdos exclusivos, tendo a opção de assinatura semanal,mensal ou anual.
 - Nova garota fofinha propaganda da aplicação chamada "Chan-chan".
 
 ### Changed
@@ -143,7 +143,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 ## [0.1.0] - 2019-03-31
 ### Added
 - Aplicação de criação e leitura de mangas.
-- O software consiste em disponibilizar para os usuários mangas oferecidos gratuitamente pelas editoras para 	leitura e também oferecer uma plataforma de criação de manga digital que estará disponível para leitura gratuitamente por todos os usuários.
+- O software consiste em disponibilizar para os usuários mangas oferecidos gratuitamente pelas editoras para leitura e também oferecer uma plataforma de criação de manga digital que estará disponível para leitura gratuitamente por todos os usuários.
 
 
   
