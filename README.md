@@ -6,12 +6,36 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
 ## [2.0.0] - 2019-07-01
 ### Added
+- Adoção de uma nova linguagem de programação alterando quase todo o codigo do sistema.
+- Adicionada a opção "Traduzir para outro idioma" onde se o criador daquele conteudo permitir essa opção estará ativa para todos os usuarios. Nessa opção podera traduzir aquela obra e criar uma nova versão para outro idioma, essa versão sera revisada pelo autor antes de ser publicada.
+
 
 ### Changed
-- Mudança no desenho da  
+- Mudança no fisico da Chan-chan pois haviam muitas reclamações de que ela estava muito sexualizada
+- Mudança no tratamento do usuario, não chamando os criadores de criadores e os não criadores de leitores
+- Agora a opção idioma tambem poderá traduzir os mangas criados pelos usuarios caso o criador adicione a opção "Traduzir para outra lingua" ativa em sua obra.
 
+### Fixed
+- Correção de otimização.
+- Correção de bugs no modo criação onde só era possivel voltar 5 vezes.
+- Correção de problema do aplicativo não abrir.
+- Correção da Chan-chan aparecer com as roupas antigas.
+- Correção da Chan-chan aparecer sem roupa.
+- Correção do bug que fazia aparecer a opção da assinatura semanal nos tablets.
+- Correção do problema de quando o usuario mudava para a proxima pagina ele era direcionado para a tela de criação.
+
+## [1.4.0] - 2019-06-25
+### Added
+- Opção de compartilhar a leitura através das redes sociais.
+- Adicionado uma nova interação com a Chan-chan onde ela pode te ajudar em certas funções da aplicação.
+- Novos idiomas adicionados.
+
+### Changed
+- Mudanças na roupa da Chan-chan.
 
 ### Removed
+- Assinatura semanal.
+- Removido opção de adicionar filtro a foto de perfil.
 
 ## [1.3.1] - 2019-06-28
 ### Fixed
@@ -22,9 +46,8 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 
 ## [1.3.0] - 2019-06-25
 ### Added
-- Opção de compartilhar a leitura através das redes sociais
-- Sugestão de leitura para outros usuários
-- Classificação e review de leituras já realizadas
+- Sugestão de leitura para outros usuários.
+- Classificação e review de leituras já realizadas.
 
 ### Removed
 - Bordas pretas no contorno das páginas durante a leitura
@@ -36,7 +59,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 - Criptografia de informações importantes
 
 ### Fixed
-- Correção do bug de não aparecer a mensagem "Compra efetuada"
+- Correção do bug de não aparecer a mensagem "Compra efetuada".
 
 ## [1.2.0] - 2019-06-22
 ### Added
@@ -71,7 +94,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 ## [1.0.0] - 2019-06-15
 ### Added
 - Adicionado novas opções para leitores e criadores, separando as configurações de cada um dentro da área especifica que o usuário irá fazer aquilo.
-- Adicionado assinatura no aplicativo onde o usuário terá acesso.
+- Adicionado assinatura no aplicativo onde o usuário terá acesso a conteudos exclusivos, tendo a opção de assinatura semanal,mensal ou anual.
 - Nova garota fofinha propaganda da aplicação chamada "Chan-chan".
 
 ### Changed
@@ -109,7 +132,7 @@ Todas as mudanças notáveis do projeto serão documentadas nesse arquivo.
 - Permite que o usuário dê zoom na página.
 
 ### Fixed
-- Correção dos botões não aparecendo
+- Correção dos botões não aparecendo.
 
 ## [0.2.0] - 2019-05-10
 ### Added
